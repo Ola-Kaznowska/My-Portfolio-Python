@@ -1,0 +1,1 @@
+print(eval(input("Enter a 2 number: ")))
